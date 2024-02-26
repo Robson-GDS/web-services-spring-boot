@@ -3,7 +3,6 @@ package com.springbootcourse.course.entities;
 import com.springbootcourse.course.entities.enums.OrderStatus;
 import jakarta.persistence.*;
 import lombok.*;
-import org.aspectj.weaver.ast.Or;
 
 import java.time.Instant;
 
